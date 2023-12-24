@@ -1,5 +1,5 @@
 const ClueInfo: Record<string, string[]> = {
-  'springle': ['sounds/trampoline.mp3'],
+  'springle': ['sounds/bed.m4a'],
   'roadkill': ['sounds/roadkill.m4a'],
   'jail': ['sounds/jail.m4a'],
   'broom': ['sounds/broom.m4a'],
