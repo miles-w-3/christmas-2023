@@ -3,7 +3,6 @@ const ClueInfo: Record<string, string[]> = {
   'roadkill': ['sounds/roadkill.m4a'],
   'jail': ['sounds/jail.m4a'],
   'broom': ['sounds/broom.m4a'],
-  'bed': ['sounds/bed.m4a'],
   'fiveam': ['sounds/fiveam.mp3'],
   'psss': ['sounds/psss.mp3', 'sounds/howl.mp3'],
 }
