@@ -1,11 +1,11 @@
 const ClueInfo: Record<string, string[]> = {
-  'sprigle': ['sounds/trampoline.mp3'],
+  'springle': ['sounds/trampoline.mp3'],
   'roadkill': ['sounds/roadkill.m4a'],
   'jail': ['sounds/jail.m4a'],
-  'broom': ['sounds/car.m4a'], // rafael raceway
+  'broom': ['sounds/broom.m4a'],
   'bed': ['sounds/bed.m4a'],
-  'fiveam': ['sounds/cardinal.mp3'],
-  'psss': ['sounds/fox.mp3', 'sounds/coyote.mp3'],
+  'fiveam': ['sounds/fiveam.mp3'],
+  'psss': ['sounds/psss.mp3', 'sounds/howl.mp3'],
 }
 
 export default ClueInfo;
